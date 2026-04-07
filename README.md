@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **REST API's, Distributed Systems, Spark Optimizations**
 
-- 📫 How to reach me **sindhu7727@gmail.com**
+- 📫 How to reach me **linkedin.com/sindhu-davuluri**
 
 - 📄 Know about my experiences [Resume here](https://drive.google.com/file/d/1WH4iqibuJXqYCfMqw2aQbXrAtNPiHpUp/view?usp=sharing)
 
